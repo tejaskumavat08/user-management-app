@@ -20,7 +20,7 @@ This is a simple Node.js and Express-based application that interacts with a MyS
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/user-management-app.git
+   git clone https://github.com/tejaskumavat08/user-management-app.git
    cd user-management-app
    ```
 2. Install dependencies:
