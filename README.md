@@ -1,4 +1,4 @@
-# User Management App
+# 💻 User Management App
 
 This is a simple Node.js and Express-based application that interacts with a MySQL database to manage users. The app allows you to insert, view, and edit users dynamically.
 
