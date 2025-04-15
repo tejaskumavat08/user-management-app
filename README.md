@@ -6,7 +6,7 @@ This is a simple Node.js and Express-based application that interacts with a MyS
 - Generate and insert 100 random users into a MySQL database using Faker.js
 - Display the total user count on the home page
 - List all users with their details
-- Edit user information securely
+- Edit user information securely   
 
 ## Technologies Used
 - Node.js
